@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @matheusrb
-- 👀 I’m interested in C# development, 3D Printing Hobbist and Control and Automation Engineer
-- 🌱 I’m currently learning C#, improving my Python skills for AI and getting deeper in OO programming
+- 👀 Interested in C# development, pthon development, 3D Printing Hobbist and Control and Automation Engineer
+- 🌱 Currently learning C#, improving my Python skills with Django Framework and getting deeper in OO programming
+- ⚙  Looking for mix tecnology, electronic and coding in daily activities for better life quality
 
 <!---
 matheusrb/matheusrb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
