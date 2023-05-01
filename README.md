@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheusrb
-- 👀 Interested in C# development, pthon development, 3D Printing Hobbist and Control and Automation Engineer
-- 🌱 Currently learning C#, improving my Python skills with Django Framework and getting deeper in OO programming
+- 👀 Interested in pthon for data science and computer vision, 3D printing for makers and industry 4.0
+- 🌱 Currently improving my Python skills for data science
 - ⚙  Looking for mix tecnology, electronic and coding in daily activities for better life quality
 
 <!---
